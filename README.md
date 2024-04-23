@@ -26,7 +26,10 @@ npm run test
 
 ## Author
 
-👤 **Niaz Morshed**
+  Ameya Paldewar
+  Sanket Paliwal
+  Amol Palwe
+  Soham Panchal
 
 
 ## Note:
